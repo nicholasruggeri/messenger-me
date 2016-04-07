@@ -7,7 +7,7 @@ jquery.messengerme.js
  1 - Load the script
 
 ```
-<script src="messenger-me.js"></script>
+<script src="jquery.messengerme.js"></script>
 ```
 
 2 - Initiate the plugin
