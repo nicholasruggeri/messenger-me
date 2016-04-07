@@ -35,7 +35,11 @@
                         top: screen.height / 2 - height / 2
                     };
 
-                window.open(url, "Messenger Me", "width=" + width + ",height=" + height + ",left=" + pos.left + ",top=" + pos.top);
+                window.open(
+                    url,
+                    "_blank",
+                    "width=" + width + ",height=" + height + ",left=" + pos.left + ",top=" + pos.top
+                );
 
             };
 
