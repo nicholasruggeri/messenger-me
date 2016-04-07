@@ -1,5 +1,5 @@
 
-messenger-me.js
+jquery.messengerme.js
 ----------------------
 
 ####  How to install
@@ -14,7 +14,7 @@ messenger-me.js
 
 ```
 $(".messenger-me").messengerme({
-    width: 100,
-    height: 500
+    width: 100,  // default 470
+    height: 500  // default 640
 });
 ```
